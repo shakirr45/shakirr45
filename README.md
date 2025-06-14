@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://github.com/user-attachments/assets/006b57a8-b685-42c5-ab2f-267ab3aa2fe1"width="48%"/> -->
-  <img src="https://i.ibb.co/2Yjp5CGb/Untitled-design-6.png" width="48%"/>
+  <img src="https://i.ibb.co/v68v0N6j/Black-and-White-Gradient-Girl-Facebook-Profile-Picture.jpg" width="48%"/>
   <img src="https://github.com/user-attachments/assets/33a8b91b-431a-41e4-80ce-799fa703b942"width="48%"/>
 </div>
 
