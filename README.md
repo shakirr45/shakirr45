@@ -1,136 +1,96 @@
+<!-- Profile Banner / Profile Picture -->
 <div align="center">
-<!--   <img src="https://github.com/user-attachments/assets/006b57a8-b685-42c5-ab2f-267ab3aa2fe1"width="48%"/> -->
-  <img src="https://i.ibb.co/v68v0N6j/Black-and-White-Gradient-Girl-Facebook-Profile-Picture.jpg" width="48%"/>
-<!--   <img src="https://i.ibb.co/fYxDnrsh/Black-and-White-Gradient-Girl-Facebook-Profile-Picture-1.jpg"width="48%"/> -->
+  <img src="https://i.ibb.co/v68v0N6j/Black-and-White-Gradient-Girl-Facebook-Profile-Picture.jpg" width="48%" />
 </div>
 
-# 
+<br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aef71ee7-1f9f-40f9-9773-48e77ca9e1ae"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/1709c0c9-14c6-4420-8141-bce2aa231c08"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/e8c7941b-c599-49cc-a02a-a130021ddbe9"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/1e830268-bf32-4d4e-b52a-2d63ae22f950"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/39607d5b-897c-429d-8503-739b7bf8a7d2"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/d654aed1-db83-4426-be3e-61d2930191cd"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/4081fcf6-1c2a-4f0f-ab7c-ae64192086c0"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/2849011f-38bd-44da-b91b-43e6d1c2388b"width="8%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/03f1ba3f-2e57-4240-a1f7-9ee9e5063b0e"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/f7d892ee-48ac-4864-aca3-b60ee4852fa6"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/0da2179e-969d-4b33-8faa-516ac9e3c244"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/c341860c-627b-4cf5-88fc-d998ff6a3f6d"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/c62156f3-029a-46b9-a822-62a7ba3599ec"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/dcfbea56-7ebf-4722-a4d8-b21aec48d5ac"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/3c1c9e9e-ccd5-480d-8f44-5e9b87e157a6"width="8%"/>
-  <img src="https://github.com/user-attachments/assets/836edb46-af06-44b4-a9f0-5e4bdffdb30c"width="8%"/>
+  <!-- Add some mini icons / badges -->
+  <img src="https://github.com/user-attachments/assets/aef71ee7-1f9f-40f9-9773-48e77ca9e1ae" width="8%" />
+  <img src="https://github.com/user-attachments/assets/1709c0c9-14c6-4420-8141-bce2aa231c08" width="8%" />
+  <img src="https://github.com/user-attachments/assets/e8c7941b-c599-49cc-a02a-a130021ddbe9" width="8%" />
+  <img src="https://github.com/user-attachments/assets/1e830268-bf32-4d4e-b52a-2d63ae22f950" width="8%" />
+  <img src="https://github.com/user-attachments/assets/39607d5b-897c-429d-8503-739b7bf8a7d2" width="8%" />
+  <img src="https://github.com/user-attachments/assets/d654aed1-db83-4426-be3e-61d2930191cd" width="8%" />
+  <img src="https://github.com/user-attachments/assets/4081fcf6-1c2a-4f0f-ab7c-ae64192086c0" width="8%" />
+  <img src="https://github.com/user-attachments/assets/2849011f-38bd-44da-b91b-43e6d1c2388b" width="8%" />
 </div>
 
-# 
-
-<div align="center" >
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="42%"/> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakirr45&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="42%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=shakirr45&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false"width="53%"/>
-</div>
-<div align="center" >
- <img src="https://github-readme-streak-stats.herokuapp.com?user=shakirr45&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="72%"/>
-
-</div>
+<br/>
 
 <h1 align="center">Hi 👋, I'm Md Zahidul Islam</h1>
 <h4 align="center">
-  Experienced full-stack web developer with 4+ years of expertise in PHP, Laravel, JavaScript, React, Vue.js, and CSS. I specialize in building efficient back-end systems, dynamic front-ends, and custom e-commerce solutions, including a developed Shopify app. As a passionate content creator on YouTube, I share valuable web development tutorials and insights. Let's collaborate to bring innovative projects to life!
+  💻 Full-stack web developer with 4+ years of experience in PHP, Laravel, JavaScript, React, Vue.js, and custom e-commerce development.<br/>
+  📹 I also create development tutorials on <a href="https://www.youtube.com/@devzahid" target="_blank">YouTube</a>.<br/>
+  🤝 Let's collaborate and build something awesome!
 </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzahid-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzahid-pro" alt="mdzahid-pro" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mdzahid23520248" target="blank"><img src="https://img.shields.io/twitter/follow/mdzahid23520248?logo=twitter&style=for-the-badge" alt="mdzahid23520248" /></a> </p>
-
-- 🔭 I’m currently work for [Xgenious](https://xgenious.com)
-
-- 🌱 I’m currently learning **VueJS**
-
-- 📝 I regularly create Tutorial on Youtube [https://www.youtube.com/channel/UCUQreTokXbCJPpDnY1aaTJQ](https://www.youtube.com/channel/UCUQreTokXbCJPpDnY1aaTJQ)
-
-- 💬 Ask me about **PHP, Laravel, JavaScript, ReactJS**
-
-- 📫 How to reach me **mdzahid.pro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mdzahid23520248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdzahid23520248" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdzahidpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdzahidpro" height="30" width="40" /></a>
-<a href="https://fb.com/devzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devzahid" height="30" width="40" /></a>
-<a href="https://instagram.com/devzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devzahid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@devzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code reader" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdzahid-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
-  
-📊 Statistics
 
 <p align="center">
-<a href="https://github.com/mdzahid-pro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdzahid-pro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdzahid-pro&layout=compact&langs_count=8&theme=gotham"/>
-</a>
+  <a href="https://twitter.com/mdzahid23520248" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mdzahid23520248?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
 </p>
-  
 
-<p><img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&exclude_days=Fri" alt="mdzahid-pro" /></p>
+---
 
-<table width="100%">
-  <thead align="center">
-    <tr>
-      <td><b>Project Title</b></td>
-      <td><b>Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://safecart.bytesed.com/" rel="nofollow">Safecart</a></td>
-      <td>Safecart multi-vendor Laravel eCommerce</td>
-    </tr>
-    <tr>
-      <td><a href="https://shopmartecommerce.com/" rel="nofollow">Shopmart</a></td>
-      <td>Shopmart Laravel eCommerce</td>
-    </tr>
-    <tr>
-      <td><a href="https://xgenious.com/laravel/grenmart/" rel="nofollow">Grenmart</a></td>
-      <td>Grenmart Laravel eCommerce</td>
-    </tr>
-    <tr>
-      <td><a href="https://bytesed.com/laravel/zaika/" rel="nofollow">Zaika</a></td>
-      <td>Zaika eCommerce CMS</td>
-    </tr>
-    <tr>
-      <td><a href="Javascript:void(0)" rel="nofollow">Hotel Management System</a></td>
-      <td>Hotel Management System</td>
-    </tr>
-    <tr>
-      <td><a href="http://unitedexpress.com.bd/" rel="nofollow">United Express</a></td>
-      <td>Document and parcel service</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.bwdb.gov.bd/" rel="nofollow">BWBD</a></td>
-      <td>Bangladesh Water Development Board</td>
-    </tr>
-    
-  </tbody>
-</table>
+### 🔥 Github Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdzahid-pro&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzahid-pro&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&theme=react&hide_border=true" height="200"/>
+</div>
 
+---
 
+### 🚀 Projects
 
+| Project | Description |
+|--------|-------------|
+| [Safecart](https://safecart.bytesed.com/) | Multi-vendor Laravel eCommerce |
+| [Shopmart](https://shopmartecommerce.com/) | Laravel eCommerce site |
+| [Grenmart](https://xgenious.com/laravel/grenmart/) | Laravel eCommerce platform |
+| [Zaika](https://bytesed.com/laravel/zaika/) | eCommerce CMS |
+| Hotel Management System | Hotel automation system |
+| [United Express](http://unitedexpress.com.bd/) | Document & parcel delivery system |
+| [BWDB](https://www.bwdb.gov.bd/) | Bangladesh Water Development Board website |
 
+---
 
+### 🛠️ Languages & Tools
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+</p>
 
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:mdzahid.pro@gmail.com"><strong>📧 Email:</strong> mdzahid.pro@gmail.com</a><br/>
+  <a href="https://linkedin.com/in/mdzahidpro" target="_blank">🔗 LinkedIn</a><br/>
+  <a href="https://twitter.com/mdzahid23520248" target="_blank">🐦 Twitter</a><br/>
+  <a href="https://facebook.com/devzahid" target="_blank">📘 Facebook</a><br/>
+  <a href="https://instagram.com/devzahid" target="_blank">📷 Instagram</a><br/>
+  <a href="https://www.youtube.com/@devzahid" target="_blank">▶️ YouTube</a>
+</p>
