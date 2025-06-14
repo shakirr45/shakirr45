@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://github.com/user-attachments/assets/006b57a8-b685-42c5-ab2f-267ab3aa2fe1"width="48%"/> -->
   <img src="https://i.ibb.co/v68v0N6j/Black-and-White-Gradient-Girl-Facebook-Profile-Picture.jpg" width="48%"/>
-  <img src="https://i.ibb.co/fYxDnrsh/Black-and-White-Gradient-Girl-Facebook-Profile-Picture-1.jpg"width="48%"/>
+<!--   <img src="https://i.ibb.co/fYxDnrsh/Black-and-White-Gradient-Girl-Facebook-Profile-Picture-1.jpg"width="48%"/> -->
 </div>
 
 # 
