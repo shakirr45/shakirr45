@@ -83,10 +83,10 @@
 </p>
 
 ---
-
+<!-- 
 ### 📫 Contact Me
 
-<!-- <p align="left">
+<p align="left">
   <a href="mailto:mdzahid.pro@gmail.com"><strong>📧 Email:</strong> mdzahid.pro@gmail.com</a><br/>
   <a href="https://linkedin.com/in/mdzahidpro" target="_blank">🔗 LinkedIn</a><br/>
   <a href="https://twitter.com/mdzahid23520248" target="_blank">🐦 Twitter</a><br/>
