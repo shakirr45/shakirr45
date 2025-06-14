@@ -50,8 +50,8 @@
 </div>
 
 ---
-
-### 🚀 Projects
+<!--
+### 🚀 Projects 
 
 | Project | Description |
 |--------|-------------|
@@ -64,7 +64,7 @@
 | [BWDB](https://www.bwdb.gov.bd/) | Bangladesh Water Development Board website |
 
 ---
-
+ -->
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -86,11 +86,11 @@
 
 ### 📫 Contact Me
 
-<p align="left">
+<!-- <p align="left">
   <a href="mailto:mdzahid.pro@gmail.com"><strong>📧 Email:</strong> mdzahid.pro@gmail.com</a><br/>
   <a href="https://linkedin.com/in/mdzahidpro" target="_blank">🔗 LinkedIn</a><br/>
   <a href="https://twitter.com/mdzahid23520248" target="_blank">🐦 Twitter</a><br/>
   <a href="https://facebook.com/devzahid" target="_blank">📘 Facebook</a><br/>
   <a href="https://instagram.com/devzahid" target="_blank">📷 Instagram</a><br/>
   <a href="https://www.youtube.com/@devzahid" target="_blank">▶️ YouTube</a>
-</p>
+</p> -->
