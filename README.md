@@ -32,10 +32,10 @@
 <div align="center" >
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="42%"/> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakirr45&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="42%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false"width="53%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shakirr45&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false"width="53%"/>
 </div>
 <div align="center" >
- <img src="https://github-readme-streak-stats.herokuapp.com?user=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="72%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=shakirr45&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="72%"/>
 
 </div>
 
