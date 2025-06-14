@@ -19,15 +19,15 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Md Zahidul Islam</h1>
+<h1 align="center">Hi 👋, I'm Shamiur Rahman Shakir</h1>
 <h4 align="center">
-  💻 Full-stack web developer with 4+ years of experience in PHP, Laravel, JavaScript, React, Vue.js, and custom e-commerce development.<br/>
-  📹 I also create development tutorials on <a href="https://www.youtube.com/@devzahid" target="_blank">YouTube</a>.<br/>
+  💻 Full-stack web developer with 2+ years of experience in PHP, Laravel, JavaScript, React, Vue.js, and custom software development.<br/>
+<!--   📹 I also create development tutorials on <a href="https://www.youtube.com/@devzahid" target="_blank">YouTube</a>.<br/> -->
   🤝 Let's collaborate and build something awesome!
 </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdzahid-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" />
+  <img src="https://komarev.com/ghpvc/?username=shakirr45&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" />
 </p>
 
 <p align="center">
