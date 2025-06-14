@@ -41,12 +41,12 @@
 ### 🔥 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdzahid-pro&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzahid-pro&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakirr45&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakirr45&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&theme=react&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakirr45&theme=react&hide_border=true" height="200"/>
 </div>
 
 ---
