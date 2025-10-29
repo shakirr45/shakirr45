@@ -1,7 +1,7 @@
 <!-- Profile Banner / Profile Picture -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.ibb.co/v68v0N6j/Black-and-White-Gradient-Girl-Facebook-Profile-Picture.jpg" width="48%" />
-</div>
+</div> -->
 
 <br/>
 
